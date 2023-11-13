@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/me.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My picture";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Ticket Booking site For MoonTrip",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is a website for a hypothetical space tourism company named Moon Trip. The website provides comprehensive information about the company's mission to take civilians to the Moo.",
+    url: "https://aniket0608.github.io/MoonWalk-aniket0608.github.io/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "App Starting Interface",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Application Stated Phase showing login and signup.",
+    url: "https://github.com/aniket0608/nfsu_edu/tree/Nfsu_edu",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created my first portfolio website deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://aniket0608.github.io/portfolio-aniket0608.github.io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Notepad",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project is a simple Notepad application developed in C# using Windows Forms.",
+    url: "https://github.com/aniket0608/Notepad",
   },
 ];
 
