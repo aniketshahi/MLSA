@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "Ticket Booking site For MoonTrip",
     description:
-      "This project is a website for a hypothetical space tourism company named Moon Trip. The website provides comprehensive information about the company's mission to take civilians to the Moo.",
+      "This project is a website for a hypothetical space tourism company named Moon Trip.",
     url: "https://aniket0608.github.io/MoonWalk-aniket0608.github.io/",
   },
   {
